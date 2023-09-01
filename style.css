@@ -2,6 +2,15 @@ body, html {
     margin: 0;
     padding: 0;
     height: 100%;
+    overflow: hidden; /* Para ocultar o scroll horizontal */
+}
+
+.imagem-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    overflow-x: auto; /* Adicionar scroll horizontal quando necessário */
 }
 
 .imagem-tela-cheia {
