@@ -1,8 +1,7 @@
 body, html {
     margin: 0;
     padding: 0;
-    height: 100%;
-    overflow: hidden;
+    min-height: 100%; /* Define uma altura mínima */
 }
 
 .imagem-container {
@@ -11,6 +10,7 @@ body, html {
     align-items: center;
     height: 100%;
     overflow-x: auto;
+    overflow-y: hidden; /* Remova esta linha se desejar rolagem vertical aqui */
 }
 
 .imagem-tela-cheia {
@@ -88,4 +88,8 @@ body, html {
 
 p {
     margin: 2vh 2vh 1vh 2vh;
+}
+
+.container {
+    margin-bottom: 7vh;
 }
