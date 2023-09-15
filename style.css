@@ -54,14 +54,14 @@ body, html {
 }
 
 .footerBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: fixed;
     bottom: 0;
     height: 7vh;
     background-color: #FFDDC5;
     width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-size: 1.5rem;
 }
 
@@ -95,7 +95,7 @@ body, html {
 }
 
 p {
-    margin: 2vh 2vh 0.4vh 2vh;
+    margin: 2vh 2vh 0.3vh 2vh;
     text-align: center;
 }
 
