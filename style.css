@@ -59,7 +59,7 @@ body, html {
     align-items: center;
     position: fixed;
     bottom: 0;
-    height: 7vh;
+    height: 2vh;
     background-color: #FFDDC5;
     width: 100%;
     font-size: 1.5rem;
@@ -75,7 +75,7 @@ body, html {
     max-width: 400px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 10vh;
+    margin-bottom: 2hv;
 }
 
 .iconCenter {
