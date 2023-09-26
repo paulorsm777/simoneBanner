@@ -92,6 +92,7 @@ body, html {
     display: flex;
     width: 96%;
     justify-content: space-around;
+    margin-top: 1vh;
 }
 
 p {
