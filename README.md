@@ -1,5 +1,3 @@
-Aqui está uma versão aprimorada para o README do repositório:
-
 ---
 
 # Cartão de Visita Virtual - Projeto
@@ -21,4 +19,16 @@ O foco principal deste trabalho foi renovar a identidade visual do consultório,
 - HTML/CSS
 - JavaScript
   
+---
+
+## Galeria
+
+### QR Code acesso ao cartão virtual
+
+![Cartao de visia virtual Simonne](https://github.com/user-attachments/assets/3b852be5-7124-4183-97ab-4c3c4deebda5)
+
+### Cartão virtual
+
+![image](https://github.com/user-attachments/assets/57b8d67a-d83c-492f-8152-3095a39a7911)
+
 ---
